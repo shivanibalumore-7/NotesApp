@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color purple_700
+color purple_bg
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable purple_500
+drawable purple_bg
+drawable search_background
+id btnDelete
+id btnSave
+id btnShare
+id etContent
+id etSearch
+id etTitle
+id fabAdd
+id recyclerView
+id tvContent
+id tvTimestamp
+id tvTitle
+id tvTopBar
+layout activity_add_edit_note
+layout activity_main
+layout note_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.NotesApp
+style Theme.NotesApp
+xml backup_rules
+xml data_extraction_rules
